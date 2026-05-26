@@ -1,21 +1,21 @@
 locale                   : "en-US"
-title                    : "WowPage"
+title                    : "Jinhao Wu"
 title_separator          : "-"
-name                     : "Your Name"
-description              : &description "A clean academic homepage template."
-url                      : ""
+name                     : "Jinhao Wu"
+description              : &description "First-year PhD student interested in embodied intelligence."
+url                      : "https://jinhaowuu.github.io"
 baseurl                  : ""
-repository               : ""
+repository               : "JinhaoWuu/JinhaoWuu.github.io"
 
 author:
   avatar           : "1.png"
-  name             : "Your Name"
+  name             : "Jinhao Wu"
   pronouns         :
-  bio              : "Student and researcher."
-  location         : "City, Country"
-  employer         : "Institution or Company"
+  bio              : "First-year direct-entry PhD student in the 2025 cohort, jointly trained by Nanjing University and Shanghai Chuangzhi Institute. Research interest: embodied intelligence."
+  location         : "China"
+  employer         : "Nanjing University / Shanghai Chuangzhi Institute"
   uri              :
-  email            : "name@example.com"
+  email            : "652025330032@smail.nju.edu.cn"
 
   arxiv            :
   googlescholar    :
@@ -28,7 +28,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           :
+  github           : "JinhaoWuu"
   kaggle           :
   stackoverflow    :
 
