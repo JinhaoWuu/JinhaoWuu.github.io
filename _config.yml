@@ -2,7 +2,7 @@ locale                   : "en-US"
 title                    : "Jinhao Wu"
 title_separator          : "-"
 name                     : "Jinhao Wu"
-description              : &description "First-year PhD student interested in embodied intelligence."
+description              : &description "First-year PhD student interested in embodied AI."
 url                      : "https://jinhaowuu.github.io"
 baseurl                  : ""
 repository               : "JinhaoWuu/JinhaoWuu.github.io"
@@ -13,7 +13,7 @@ author:
   pronouns         :
   bio              : "PhD student"
   location         : "China"
-  employer         : "Nanjing University / Shanghai Chuangzhi Institute"
+  employer         : "Nanjing University / Shanghai Innovation Institute"
   uri              :
   email            : "652025330032@smail.nju.edu.cn"
 
