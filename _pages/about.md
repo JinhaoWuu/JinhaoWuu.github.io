@@ -12,7 +12,7 @@ redirect_from:
 
 Hi! I am a first-year direct-entry PhD student in the 2025 cohort, jointly trained by Nanjing University and the Shanghai Innovation Institute. My research interest is embodied AI.
 
-My research focuses on embodied AI, particularly vision-language-action (VLA) models and world/action models (WAM). I am interested in building embodied agents that can integrate perception, reasoning, and action, while achieving strong generalization across diverse environments and tasks.
+My research focuses on embodied AI, particularly vision-language-action (VLA) models and world action models (WAM). I am interested in building embodied agents that can integrate perception, reasoning, and action, while achieving strong generalization across diverse environments and tasks.
 
 Please feel free to reach out if you are interested in my research.
 
