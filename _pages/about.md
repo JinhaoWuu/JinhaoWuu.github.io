@@ -21,6 +21,7 @@ News
 
 <div class="news-box">
   <ul class="news-list">
+    <li><span class="news-date"><em>2026.9</em></span> Our paper has been accepted to <strong>CoRL 2026</strong>! 🎉</li>
     <li><span class="news-date"><em>2026.5</em></span> Submitted a paper before the CoRL deadline.</li>
   </ul>
 </div>
